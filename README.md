@@ -1,2 +1,4 @@
 # TUGAS-SOFTES
 import java.util.Scanner;   // memanggil library Scanner public class penjumlahan {     public static void main (String [] args){                  Scanner input = new Scanner(System.in); // variabel Scanner         // deklarasi variabel         int angka1,angka2,hasil;                  System.out.print("Angka 1\t:");  // menampilkan teks inputan angka1         angka1=input.nextInt();         // menyimpan inputan angka1 dalam variabel angka1                  System.out.print("Angka 2\t:"); // menampilkan teks inputan angka2         angka2=input.nextInt();     // menyimpan inputan angka2 dalam variabel angka2              hasil=angka1+angka2;  // rumus untuk penjumlahan                  // output         System.out.println("\nMenampilkan Hasil :");         System.out.println(angka1+" + "+angka2+" = "+hasil); 
+}
+}
